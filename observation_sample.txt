@@ -1,0 +1,4 @@
+SimpleDAS Observation list
+
+Var          Footprint(degree)         R          File	
+H2OSOI       0.25		       0.04       /observations/SMOS.nc
